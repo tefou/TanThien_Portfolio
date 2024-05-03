@@ -1,2 +1,2 @@
-Hello Everyone, my name is **Tran Tan Thien**
+Hello Everyone, my name is **Tran Tan Thien** <br>
 Welcome to my Portfolio
